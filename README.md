@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weslly-rspk
-- 👀 I’m interested in onde.js
+- 👀 I’m interested in node.js
 - 🌱 I’m currently learning .net
 - 💞️ I’m looking to collaborate on New projects
 - 📫 How to reach me wesllysandes1209@gmail.com
